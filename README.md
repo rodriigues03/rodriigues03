@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para entrar em contato comigo, basta me seguir e/ou adcionar em alguma rede social abaixo!
  
 <div>
   <a href="https://www.instagram.com/rodriigues03" target="_blank" style="display: inline-block; margin-right: 10px;">
