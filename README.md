@@ -20,10 +20,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rodriigues03&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Github Profile Trophy"/>
-</div>
-
-<div align="center">
   <a href="https://www.instagram.com/rodriigues03_/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
