@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Silvana+Rodrigues;I'm+24+years+old;I+am+from+Curitiba%2C+PR;I+Study+Analysis+and+Systems+Development+at+Est%C3%A1cio+de+S%C3%A1;Welcome!+%3A%29" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Silvana+Rodrigues;I'm+24+years+old;I+am+from+Curitiba%2C+PR;I+Study+Analysis+and+Systems+Development+at+Est%C3%A1cio+de+S%C3%A1;Welcome!+%3A%29" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="center"><b>Visitors Count</b></p>  
   <img align="center" src="https://profile-counter.glitch.me/{rodriigues03}/count.svg" alt="Visitors Count"/>
   <br>
 </div>
